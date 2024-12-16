@@ -17,5 +17,6 @@ Neste projeto, tive a oportunidade de aprender e aplicar os seguintes conceitos:
 ![registrar](./images/register.png)
 ![autenticar](./images/auth.png)
 ![horários da agenda](./images/agenda.png)
+![definir perfil](./images/perfil.png)
 ![calendário](./images/calendar.png)
 ![finalizar agendamento](./images/finalizar.png)
